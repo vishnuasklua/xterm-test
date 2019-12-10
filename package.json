@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vishnuasklua/xterm-test/issues"
   },
-  "homepage": "https://github.com/vishnuasklua/xterm-test#readme"
+  "homepage": "https://github.com/vishnuasklua/xterm-test#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }

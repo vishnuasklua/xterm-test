@@ -1,0 +1,22 @@
+{
+  "name": "xtermtest",
+  "version": "1.0.0",
+  "description": "Xterm package Usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuasklua/xterm-test.git"
+  },
+  "keywords": [
+    "xterm"
+  ],
+  "author": "Vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuasklua/xterm-test/issues"
+  },
+  "homepage": "https://github.com/vishnuasklua/xterm-test#readme"
+}
